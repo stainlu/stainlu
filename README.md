@@ -1,1 +1,1 @@
-[![Code War](https://codewar.dev/api/svg?users=stainlu,torvalds,mitchellh,bcherny&range=3m&v=3)](https://codewar.dev/?users=stainlu,torvalds,mitchellh,bcherny&range=3m)
+[![Code War](https://codewar.dev/api/svg?users=stainlu,torvalds,mitchellh,bcherny&range=3m&self=stainlu&v=4)](https://codewar.dev/?user=stainlu&targets=torvalds,mitchellh,bcherny&range=3m)
